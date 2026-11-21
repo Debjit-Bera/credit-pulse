@@ -153,5 +153,5 @@ This project is intended for educational and demonstration purposes. Licensing t
 ---
 
 <p align="center">
-  Made with ❤️ to make credit insights easier to understand.
+  Thank You!
 </p>
